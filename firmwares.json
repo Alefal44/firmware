@@ -1,0 +1,47 @@
+[
+    {
+      "id": 0,
+      "name": "TARS DLX v1.0",
+      "platform": "models",
+      "filepath": "./TARS_DLX_1.0.bin",
+      "description": "TARS Deluxe Firmware",
+      "bgColor": "#f9b8bc",
+      "active": true
+    },
+    {
+      "id": 1,
+      "name": "CASE v0.1",
+      "platform": "models",
+      "filepath": "./CASE_0.1.bin",
+      "description": "CASE Firmware",
+      "bgColor": "#a17399",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "KIPP v0.1",
+      "platform": "models",
+      "filepath": "./dist/models/KIPP_0.1.bin",
+      "description": "KIPP Firmware",
+      "bgColor": "#a17399",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "BLACK HOLE SYMMETRY MKII v0.1",
+      "platform": "models",
+      "filepath": "./dist/models/BHS_MKII.bin",
+      "description": "BLACK HOLE SYMMETRY MKII Firmware",
+      "bgColor": "#d3d5d3",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "WORMHOLE v1.0",
+      "platform": "models",
+      "filepath": "./dist/models/WH.bin",
+      "description": "WORMHOLE Firmware",
+      "bgColor": "#b1c0ca",
+      "active": true
+    }
+  ]
